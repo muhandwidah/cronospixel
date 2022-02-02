@@ -20,8 +20,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 #zoomer {
-  width: 99% vw;
-  height: 99% vh;
+  height: 100vh;
   border: solid 1px silver;
 }
 #map {
